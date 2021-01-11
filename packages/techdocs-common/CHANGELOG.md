@@ -1,5 +1,14 @@
 # @backstage/techdocs-common
 
+## 0.3.3
+
+### Patch Changes
+
+- f1e74777a: Fix bug where binary files (`png`, etc.) could not load when using AWS or GCS publisher.
+- Updated dependencies [466354aaa]
+  - @backstage/integration@0.2.0
+  - @backstage/backend-common@0.4.3
+
 ## 0.3.2
 
 ### Patch Changes

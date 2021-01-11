@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.4.1
+
+### Patch Changes
+
+- Updated dependencies [466354aaa]
+  - @backstage/integration@0.2.0
+  - @backstage/backend-common@0.4.3
+
 ## 0.4.0
 
 ### Minor Changes

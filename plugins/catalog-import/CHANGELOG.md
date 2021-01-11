@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-import
 
+## 0.3.4
+
+### Patch Changes
+
+- Updated dependencies [466354aaa]
+- Updated dependencies [265a7ab30]
+  - @backstage/integration@0.2.0
+  - @backstage/core@0.4.4
+
 ## 0.3.3
 
 ### Patch Changes

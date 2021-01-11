@@ -1,5 +1,13 @@
 # @backstage/plugin-jenkins
 
+## 0.3.5
+
+### Patch Changes
+
+- feabc7f0c: Handle missing ObjectMetadataAction in Jenkins API
+- Updated dependencies [265a7ab30]
+  - @backstage/core@0.4.4
+
 ## 0.3.4
 
 ### Patch Changes
